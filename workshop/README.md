@@ -1,3 +1,3 @@
-# Intro to JS
+# Introduction
 
 Work in progress

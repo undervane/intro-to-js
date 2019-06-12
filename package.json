@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-js",
+  "version": "1.0.0",
+  "description": "A pragmatic approach to JS",
+  "scripts": {
+    "start": "vuepress dev workshop",
+    "build": "vuepress build workshop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undervane/intro-to-js.git"
+  },
+  "author": "Undervane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undervane/intro-to-js/issues"
+  },
+  "homepage": "https://github.com/undervane/intro-to-js#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.1",
+    "vuepress": "^1.0.1"
+  }
+}
