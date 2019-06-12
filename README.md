@@ -1,3 +1,5 @@
 # Intro to JS
 
-Work in progress
+Watch the docs here: https://undervane.github.io/intro-to-js/
+
+Work in progress!
